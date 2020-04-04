@@ -12,5 +12,7 @@ Use this for educational purposes. I'm not responsible for what you do with this
 
 
 
+![Trainer Screenshot](darkcrypter.png)
+
 
 Peace + love ^B
