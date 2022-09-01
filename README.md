@@ -1,4 +1,4 @@
-# DarkCrypter 2020 *UPDATE*
+# DarkCrypter 2022 *UPDATE 2*
 DarkCrypter encrypts your files and generates payloads to evade all anti-virus vendors. Released to a particular forum for $350, reversed in 3 weeks and free for you.
 
 
